@@ -460,14 +460,14 @@ msgstr "设置密码"
 #: templates/bootstrap/allauth/account/signup.html:7
 #: templates/bootstrap/allauth/socialaccount/signup.html:6
 msgid "Signup"
-msgstr "登录"
+msgstr "注册"
 
 #: templates/bootstrap/allauth/account/signup.html:10
 #: templates/bootstrap/allauth/account/signup.html:21
 #: templates/bootstrap/allauth/socialaccount/signup.html:9
 #: templates/bootstrap/allauth/socialaccount/signup.html:21
 msgid "Sign Up"
-msgstr "登录"
+msgstr "注册"
 
 #: templates/bootstrap/allauth/account/signup.html:12
 #, python-format
